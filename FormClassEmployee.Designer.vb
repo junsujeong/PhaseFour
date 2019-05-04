@@ -888,7 +888,7 @@ Partial Class FormClassEmployee
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "FormClassEmployee"
-        Me.Text = "FormClassEmployee"
+        Me.Text = "CS 3630 - Junsu Jeong, Zack Neefe"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

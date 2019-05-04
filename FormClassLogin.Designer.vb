@@ -116,7 +116,7 @@ Partial Class FormClassLogin
         Me.Controls.Add(Me.CancelButton)
         Me.Controls.Add(Me.OkButton)
         Me.Name = "FormClassLogin"
-        Me.Text = "CS 3630 - Junsu Jeong, Zach Neefe"
+        Me.Text = "CS 3630 - Junsu Jeong, Zack Neefe"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
