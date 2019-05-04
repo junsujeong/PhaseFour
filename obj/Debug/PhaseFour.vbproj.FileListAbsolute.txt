@@ -1,0 +1,12 @@
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\bin\Debug\PhaseFour.exe
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\bin\Debug\PhaseFour.pdb
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\bin\Debug\PhaseFour.xml
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.vbprojAssemblyReference.cache
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.FormClassLogin.resources
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.Resources.resources
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.vbproj.GenerateResource.cache
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.vbproj.CoreCompileInputs.cache
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.exe
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.xml
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.pdb
+C:\Users\junsu jeongj\Desktop\Database\PhaseFour\obj\Debug\PhaseFour.FormClassEmployee.resources
